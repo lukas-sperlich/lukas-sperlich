@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/booking/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/booking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/booking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/imprint/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/imprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/tours/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/tours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/tours/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lukas-sperlich.at/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukas-sperlich.at/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukas-sperlich.at/en/"
+                />
+  </url>
+  
+</urlset>
